@@ -1,0 +1,22 @@
+
+Average histogram for the 10000 last steps:
+0 0.496881 0.045986
+1 0.261129 0.041858
+2 0.134832 0.030915
+3 0.059815 0.023667
+4 0.029713 0.016021
+5 0.011390 0.010045
+6 0.003471 0.005874
+7 0.001168 0.003212
+8 0.000414 0.001992
+9 0.001051 0.003067
+10 0.000136 0.001158
+
+Number of Stations = 100
+Total time = 645.3
+Number of Steps = 1.0e+005
+
+Average time/step = 6.5e-003
+Average number of running bikes = 0.875600 (0.877340)
+Average number of bikes in the virtual queue = 506.207092 (9.881631)
+Average number of bikes in the stations = 92.917297 (9.899785)
